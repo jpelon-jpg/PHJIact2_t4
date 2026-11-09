@@ -1,6 +1,4 @@
-# Actividad 2 - Spring MVC con Thymeleaf
-
-Proyecto de la clínica dental con vistas Thymeleaf, DTO, @RequestParam, @PathVariable, @ModelAttribute y @Value.
+# Act2. Spring MVC - Vistas con Thymeleaf, DTOs y Manejo de Peticiones
 
 ## 1. Listado (Model + th:each)
 Ruta: `/clinica/empleados`

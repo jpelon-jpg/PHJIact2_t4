@@ -1,5 +1,7 @@
 # Act2. Spring MVC - Vistas con Thymeleaf, DTOs y Manejo de Peticiones
 
+POBLETE HERNANDEZ JHONATAN IVAN - EQUIPO 13
+
 ## 1. Listado (Model + th:each)
 Ruta: `/clinica/empleados`
 
